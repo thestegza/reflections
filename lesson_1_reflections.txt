@@ -1,0 +1,10 @@
+Intro to GIT
+using FC to do a file compare to find differnces
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+last checkout id 3884eab839af1e82c44267484cf2945a766081f3
+multiple hit 25ede836903881848fea811df5b687b59d962da3
+non bug df035382c41b4d0cda86a1aa30b53f15bef05b53
